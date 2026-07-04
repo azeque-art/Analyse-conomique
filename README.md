@@ -58,4 +58,4 @@ final sont sous licence CC BY 4.0 (`LICENSE-CC-BY-4.0`).
 ## Pour citer ce travail
 
 Merci de créditer ce dépôt et son auteur si tu réutilises ces données 
-ou ce rapport (voir la licence CC BY 4.0 pour les modalités).# Analyse-conomique
+ou ce rapport (voir la licence CC BY 4.0 pour les modalités).
